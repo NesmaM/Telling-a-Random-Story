@@ -1,9 +1,8 @@
 
 /**
- * Count common words in Shakespeare's works
- * 
- * @author Duke Software Team
- * @version 1.0
+ * @author (Nesma Abouzaid) 
+ * @version (7/11/2023))
+ */
  */
 import edu.duke.*;
 
